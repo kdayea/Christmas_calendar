@@ -44,9 +44,9 @@ function showModal(imageUrl, text) {
 }
 
 const modalMessageList = [
-  { "number": 1, "message": "행복의 계절, 모두가 함께하는 24일!" },
-  { "number": 2, "message": "이 12월, 행복한 순간이 우리를 감싸네요." },
-  { "number": 3, "message": "다 같이 즐겁게 보내는 24일, 행복이 가득합니다!" },
+  { "number": 1, "message": "우왕 우연히 수정 성공!" },
+  { "number": 2, "message": "코드가 이해가 잘 되진 않아요" },
+  { "number": 3, "message": "하지만 작동했으니 미션 완료!" },
   { "number": 4, "message": "이게.. 코딩인가요?" },
   { "number": 5, "message": "html, css, js에 대해선 알게 되었어요" },
   { "number": 6, "message": "스스로 그리드 수정도 해서 뿌듯" },
@@ -55,7 +55,7 @@ const modalMessageList = [
   { "number": 9, "message": "즐거운 크리스마스 시즌입니당" },
   { "number": 10, "message": "코딩이란 이런건가?" },
   { "number": 11, "message": "제 이름은 김다예입니다." },
-  { "number": 12, "message": "이게 코딩인지는 잘 모르겠지만" },
+  { "number": 12, "message": "메리메리메리 크리스마스!!!" },
   { "number": 13, "message": "뭔가 만들어지긴 했네요 헤헿" },
   { "number": 14, "message": "저는 김다예, 이제 곧 37살이죠" },
   { "number": 15, "message": "뭔가 더 수정을 해보고싶지만" },
